@@ -1,10 +1,9 @@
-# 02/23 Worksheet: Binary Search Trees & AVL Trees
-## Initial due date: *03/04 5pm*
-### Accepted as on time until 03/06 11:59pm
+# 10/02 Worksheet: Binary Search Trees & AVL Trees
+## Initial due date: *10/13*
 Collaborators:
 
 Answer the below questions, and make sure that you commit to your own branch.
-When done, run your code through [the autograder](http://autograder.oxy.edu/) and make a pull request on github. Don't forget to tag @irabkina.
+When done make a pull request on github. Don't forget to tag @irabkina.
 Respond to my comments by making new commits to the same branch.
 
 **Be sure to complete the AVL Tree section of this worksheet *before* starting on P2.**
@@ -44,7 +43,7 @@ a.
 
 
 ## Exploration
-Next, we will write an IntBinarySearchTree class (writing a generic BST is possible, but more complicated). Starter code is available to you in IntBinarySearchTree.java. Please submit your code to the autograder and turn it in as part of your github submission.
+Next, we will write an IntBinarySearchTree class (writing a generic BST is possible, but more complicated). Starter code is available to you in IntBinarySearchTree.java.  
 
 1. The Node class for IntBinarySearchTree is given to you. What are its member variables? What does each represent?  
 2. What member variables should IntBinarySearchTree have? Add those at the first FIXME.
