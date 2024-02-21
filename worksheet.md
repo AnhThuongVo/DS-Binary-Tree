@@ -1,9 +1,9 @@
-# 10/02 Worksheet: Binary Search Trees & AVL Trees
-## Initial due date: *10/13*
+# 02/21 Worksheet: Binary Search Trees & AVL Trees
+## Initial due date: 02/28 **
 Collaborators:
 
 Answer the below questions, and make sure that you commit to your own branch.
-When done make a pull request on github. Don't forget to tag @irabkina.
+When done make a pull request on github. Don't forget to tag @AnhThuongVo.
 Respond to my comments by making new commits to the same branch.
 
 **Be sure to complete the AVL Tree section of this worksheet *before* starting on P2.**
